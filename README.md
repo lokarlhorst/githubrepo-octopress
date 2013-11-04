@@ -15,7 +15,7 @@ Clone githubrepo-octopress to your computer
 
 https://github.com/sotsy/githubrepo-octopress
 
-Copy ```jquery.githubRepoWidget.min.js``` in ```youroctopressfolder/javascripts``` and put ```githubwidget.rb``` into ```youroctopressfolder/plugins```
+Copy ```jquery.githubRepoWidget.min.js``` in ```youroctopressfolder/source/javascripts``` and put ```githubwidget.rb``` into ```youroctopressfolder/plugins```
 
 ### Usage
 
