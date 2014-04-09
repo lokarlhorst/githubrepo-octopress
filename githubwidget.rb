@@ -8,7 +8,7 @@ module Jekyll
     end
 
     def render(context)
-      %(<div class="github-widget" data-repo="#{@repository}"></div><script type="text/javascript" src="/javascripts/jquery.githubRepoWidget.min.js"></script>)
+      %(<div class="github-widget" data-repo="#{@repository}"></div>)
     end
   end
 end
